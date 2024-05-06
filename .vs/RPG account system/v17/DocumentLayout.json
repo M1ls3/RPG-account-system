@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\RPG account system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|c:\\!dizox\\\u043B\u0430\u0431\u0438\\\u0447\u043D\u0443\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\rpg account system\\rpg account system\\biome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|solutionrelative:rpg account system\\biome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|c:\\!dizox\\\u043B\u0430\u0431\u0438\\\u0447\u043D\u0443\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\rpg account system\\rpg account system\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|solutionrelative:rpg account system\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|c:\\!dizox\\\u043B\u0430\u0431\u0438\\\u0447\u043D\u0443\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\rpg account system\\rpg account system\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|solutionrelative:rpg account system\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|c:\\!dizox\\\u043B\u0430\u0431\u0438\\\u0447\u043D\u0443\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\rpg account system\\rpg account system\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|solutionrelative:rpg account system\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|c:\\!dizox\\\u043B\u0430\u0431\u0438\\\u0447\u043D\u0443\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\rpg account system\\rpg account system\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|solutionrelative:rpg account system\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|c:\\!dizox\\\u043B\u0430\u0431\u0438\\\u0447\u043D\u0443\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\rpg account system\\rpg account system\\statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|solutionrelative:rpg account system\\statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|c:\\!dizox\\\u043B\u0430\u0431\u0438\\\u0447\u043D\u0443\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\rpg account system\\rpg account system\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|solutionrelative:rpg account system\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\RPG account system\\rpg account system\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|solutionrelative:rpg account system\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Biome.cs",
+              "DocumentMoniker": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\RPG account system\\RPG account system\\Biome.cs",
+              "RelativeDocumentMoniker": "RPG account system\\Biome.cs",
+              "ToolTip": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\RPG account system\\RPG account system\\Biome.cs",
+              "RelativeToolTip": "RPG account system\\Biome.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:33:17.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\RPG account system\\RPG account system\\Location.cs",
+              "RelativeDocumentMoniker": "RPG account system\\Location.cs",
+              "ToolTip": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\RPG account system\\RPG account system\\Location.cs",
+              "RelativeToolTip": "RPG account system\\Location.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:30:38.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Statistic.cs",
+              "DocumentMoniker": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\RPG account system\\RPG account system\\Statistic.cs",
+              "RelativeDocumentMoniker": "RPG account system\\Statistic.cs",
+              "ToolTip": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\RPG account system\\RPG account system\\Statistic.cs",
+              "RelativeToolTip": "RPG account system\\Statistic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:27:19.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\RPG account system\\RPG account system\\Character.cs",
+              "RelativeDocumentMoniker": "RPG account system\\Character.cs",
+              "ToolTip": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\RPG account system\\RPG account system\\Character.cs",
+              "RelativeToolTip": "RPG account system\\Character.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAtwBkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:20:35.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\RPG account system\\RPG account system\\Request.cs",
+              "RelativeDocumentMoniker": "RPG account system\\Request.cs",
+              "ToolTip": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\RPG account system\\RPG account system\\Request.cs",
+              "RelativeToolTip": "RPG account system\\Request.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:08:44.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\RPG account system\\RPG account system\\Player.cs",
+              "RelativeDocumentMoniker": "RPG account system\\Player.cs",
+              "ToolTip": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\RPG account system\\RPG account system\\Player.cs",
+              "RelativeToolTip": "RPG account system\\Player.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAowBEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T20:59:46.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\RPG account system\\RPG account system\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "RPG account system\\MainWindow.xaml",
+              "ToolTip": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\RPG account system\\RPG account system\\MainWindow.xaml",
+              "RelativeToolTip": "RPG account system\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-06T01:12:24.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\RPG account system\\RPG account system\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RPG account system\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\RPG account system\\RPG account system\\MainWindow.xaml.cs",
+              "RelativeToolTip": "RPG account system\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAtwB0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T01:12:23.532Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

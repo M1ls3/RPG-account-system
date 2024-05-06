@@ -1,0 +1,34 @@
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Курсова\RPG account system\RPG account system\bin\Debug\RPG account system.exe.config
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Курсова\RPG account system\RPG account system\bin\Debug\RPG account system.exe
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Курсова\RPG account system\RPG account system\bin\Debug\RPG account system.pdb
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Курсова\RPG account system\RPG account system\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Курсова\RPG account system\RPG account system\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Курсова\RPG account system\RPG account system\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Курсова\RPG account system\RPG account system\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Курсова\RPG account system\RPG account system\bin\Debug\Npgsql.dll
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Курсова\RPG account system\RPG account system\bin\Debug\System.Buffers.dll
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Курсова\RPG account system\RPG account system\bin\Debug\System.Collections.Immutable.dll
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Курсова\RPG account system\RPG account system\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Курсова\RPG account system\RPG account system\bin\Debug\System.Memory.dll
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Курсова\RPG account system\RPG account system\bin\Debug\System.Numerics.Vectors.dll
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Курсова\RPG account system\RPG account system\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Курсова\RPG account system\RPG account system\bin\Debug\System.Text.Encodings.Web.dll
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Курсова\RPG account system\RPG account system\bin\Debug\System.Text.Json.dll
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Курсова\RPG account system\RPG account system\bin\Debug\System.Threading.Channels.dll
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Курсова\RPG account system\RPG account system\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Курсова\RPG account system\RPG account system\bin\Debug\System.ValueTuple.dll
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Курсова\RPG account system\RPG account system\obj\Debug\RPG account system.csproj.AssemblyReference.cache
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Курсова\RPG account system\RPG account system\obj\Debug\RPG account system.csproj.SuggestedBindingRedirects.cache
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Курсова\RPG account system\RPG account system\obj\Debug\RPG account system.exe.config
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Курсова\RPG account system\RPG account system\obj\Debug\MainWindow.g.cs
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Курсова\RPG account system\RPG account system\obj\Debug\App.g.cs
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Курсова\RPG account system\RPG account system\obj\Debug\RPG account system_MarkupCompile.cache
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Курсова\RPG account system\RPG account system\obj\Debug\RPG account system_MarkupCompile.lref
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Курсова\RPG account system\RPG account system\obj\Debug\MainWindow.baml
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Курсова\RPG account system\RPG account system\obj\Debug\RPG account system.g.resources
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Курсова\RPG account system\RPG account system\obj\Debug\RPG_account_system.Properties.Resources.resources
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Курсова\RPG account system\RPG account system\obj\Debug\RPG account system.csproj.GenerateResource.cache
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Курсова\RPG account system\RPG account system\obj\Debug\RPG account system.csproj.CoreCompileInputs.cache
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Курсова\RPG account system\RPG account system\obj\Debug\RPG acco.FFF55761.Up2Date
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Курсова\RPG account system\RPG account system\obj\Debug\RPG account system.exe
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Курсова\RPG account system\RPG account system\obj\Debug\RPG account system.pdb
