@@ -7,6 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
+using System.Windows.Controls.Primitives;
 using System.Windows.Data;
 using System.Windows.Documents;
 using System.Windows.Input;
@@ -23,11 +24,28 @@ namespace RPG_account_system
     /// </summary>
     public partial class MainWindow : Window
     {
-        
+        Player player;
         public MainWindow()
         {
             InitializeComponent();
-            //TestConnection(this);
+        }
+
+        private void button_Play_Click(object sender, RoutedEventArgs e)
+        {
+            player = new Player($"SELECT * FROM players WHERE login = '{textBox_Login.Text}'");
+            if (player.Password == passwordBox.Password)
+            {
+                if (player.Category == Category.Admin)
+                {
+                    Players charactersMenu = new Players();
+                    App.Current.MainWindow.Close();
+                    charactersMenu.Show();
+                }
+                else
+                    MessageBox.Show($"You don't have permission to do this", "Permission", MessageBoxButton.OK, MessageBoxImage.Information);
+            }
+            else
+                MessageBox.Show($"Incorrect Login or Password", "Invalid", MessageBoxButton.OK, MessageBoxImage.Warning);
         }
     }
 }

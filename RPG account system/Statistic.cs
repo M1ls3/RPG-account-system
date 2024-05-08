@@ -14,7 +14,6 @@ namespace RPG_account_system
         Player player;
         int total_losses;
         int total_kills;
-        int total_coins;
-        NpgsqlInterval interval;
+        int treasure_collected;
     }
 }

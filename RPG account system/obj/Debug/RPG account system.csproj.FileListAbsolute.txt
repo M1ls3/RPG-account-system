@@ -32,3 +32,11 @@ C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Курсов�
 C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Курсова\RPG account system\RPG account system\obj\Debug\RPG acco.FFF55761.Up2Date
 C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Курсова\RPG account system\RPG account system\obj\Debug\RPG account system.exe
 C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Курсова\RPG account system\RPG account system\obj\Debug\RPG account system.pdb
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Курсова\RPG account system\RPG account system\obj\Debug\Characters.g.cs
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Курсова\RPG account system\RPG account system\obj\Debug\Characters.baml
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Курсова\RPG account system\RPG account system\obj\Debug\Players.g.cs
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Курсова\RPG account system\RPG account system\obj\Debug\Players.baml
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Курсова\RPG account system\RPG account system\obj\Debug\Registration.g.cs
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Курсова\RPG account system\RPG account system\obj\Debug\Registration.baml
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Курсова\RPG account system\RPG account system\obj\Debug\Statistics.g.cs
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Курсова\RPG account system\RPG account system\obj\Debug\Statistics.baml

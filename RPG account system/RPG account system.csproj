@@ -57,9 +57,25 @@
     </ApplicationDefinition>
     <Compile Include="Biome.cs" />
     <Compile Include="Character.cs" />
+    <Compile Include="Characters.xaml.cs">
+      <DependentUpon>Characters.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Location.cs" />
+    <Compile Include="Players.xaml.cs">
+      <DependentUpon>Players.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Registration.xaml.cs">
+      <DependentUpon>Registration.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Request.cs" />
     <Compile Include="Statistic.cs" />
+    <Compile Include="Statistics.xaml.cs">
+      <DependentUpon>Statistics.xaml</DependentUpon>
+    </Compile>
+    <Page Include="Characters.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -72,6 +88,18 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="Players.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Registration.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Statistics.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Player.cs" />
@@ -104,6 +132,12 @@
     <PackageReference Include="Npgsql">
       <Version>8.0.2</Version>
     </PackageReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="LoginBackground.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="CharBack.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
