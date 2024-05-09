@@ -57,6 +57,9 @@
     </ApplicationDefinition>
     <Compile Include="Biome.cs" />
     <Compile Include="Character.cs" />
+    <Compile Include="CharacterEdit.xaml.cs">
+      <DependentUpon>CharacterEdit.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Characters.xaml.cs">
       <DependentUpon>Characters.xaml</DependentUpon>
     </Compile>
@@ -72,6 +75,10 @@
     <Compile Include="Statistics.xaml.cs">
       <DependentUpon>Statistics.xaml</DependentUpon>
     </Compile>
+    <Page Include="CharacterEdit.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Characters.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>

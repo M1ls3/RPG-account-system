@@ -22,13 +22,15 @@ namespace RPG_account_system
     /// </summary>
     public partial class Characters : Window
     {
+        Player player;
         public Characters(Player player)
         {
             InitializeComponent();
-            RequestSQL(player);
+            this.player = player;
+            RequestSQL();
         }
 
-        void RequestSQL(Player player)
+        void RequestSQL()
         {
             try
             {
@@ -71,10 +73,27 @@ namespace RPG_account_system
 
         private void button_Edit_Click(object sender, RoutedEventArgs e)
         {
+            var selectedRow = dataGrid_Characters.SelectedItem as DataRowView;
 
+            if (selectedRow != null)
+            {
+                int characterId = Convert.ToInt32(selectedRow.Row.ItemArray[0]);
+
+                string request = $"SELECT * FROM character WHERE character_id = {characterId}";
+                CharacterEdit characterEdit = new CharacterEdit(new Character(request));
+                this.Close();
+                characterEdit.Show();
+            }
+            else
+                MessageBox.Show($"Incorrect character_id", "Selection");
         }
 
         private void button_Delete_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void button_biome_Click(object sender, RoutedEventArgs e)
         {
 
         }

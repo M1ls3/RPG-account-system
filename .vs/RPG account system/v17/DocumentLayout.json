@@ -3,40 +3,52 @@
   "WorkspaceRootPath": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\RPG account system\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\RPG account system\\rpg account system\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|solutionrelative:rpg account system\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|c:\\!dizox\\\u043B\u0430\u0431\u0438\\\u0447\u043D\u0443\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\rpg account system\\rpg account system\\characteredit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|solutionrelative:rpg account system\\characteredit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|c:\\!dizox\\\u043B\u0430\u0431\u0438\\\u0447\u043D\u0443\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\rpg account system\\rpg account system\\characteredit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|solutionrelative:rpg account system\\characteredit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|c:\\!dizox\\\u043B\u0430\u0431\u0438\\\u0447\u043D\u0443\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\rpg account system\\rpg account system\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|solutionrelative:rpg account system\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|c:\\!dizox\\\u043B\u0430\u0431\u0438\\\u0447\u043D\u0443\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\rpg account system\\rpg account system\\statistics.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|solutionrelative:rpg account system\\statistics.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\RPG account system\\rpg account system\\characters.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|solutionrelative:rpg account system\\characters.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\RPG account system\\rpg account system\\characters.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|solutionrelative:rpg account system\\characters.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\RPG account system\\rpg account system\\players.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|solutionrelative:rpg account system\\players.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\RPG account system\\rpg account system\\statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|solutionrelative:rpg account system\\statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\RPG account system\\rpg account system\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|solutionrelative:rpg account system\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|c:\\!dizox\\\u043B\u0430\u0431\u0438\\\u0447\u043D\u0443\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\rpg account system\\rpg account system\\players.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\RPG account system\\rpg account system\\players.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|solutionrelative:rpg account system\\players.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|c:\\!dizox\\\u043B\u0430\u0431\u0438\\\u0447\u043D\u0443\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\rpg account system\\rpg account system\\characters.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|solutionrelative:rpg account system\\characters.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|c:\\!dizox\\\u043B\u0430\u0431\u0438\\\u0447\u043D\u0443\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\rpg account system\\rpg account system\\statistics.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\RPG account system\\rpg account system\\statistics.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|solutionrelative:rpg account system\\statistics.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|c:\\!dizox\\\u043B\u0430\u0431\u0438\\\u0447\u043D\u0443\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\rpg account system\\rpg account system\\characters.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|solutionrelative:rpg account system\\characters.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|c:\\!dizox\\\u043B\u0430\u0431\u0438\\\u0447\u043D\u0443\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\rpg account system\\rpg account system\\players.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|solutionrelative:rpg account system\\players.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|c:\\!dizox\\\u043B\u0430\u0431\u0438\\\u0447\u043D\u0443\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\rpg account system\\rpg account system\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|solutionrelative:rpg account system\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|c:\\!dizox\\\u043B\u0430\u0431\u0438\\\u0447\u043D\u0443\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\rpg account system\\rpg account system\\statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D27B600B-5E04-4590-93FE-0900A006BD7A}|RPG account system\\RPG account system.csproj|solutionrelative:rpg account system\\statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,11 +58,49 @@
       "DocumentGroups": [
         {
           "DockedHeight": 218,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\RPG account system\\RPG account system\\Character.cs",
+              "RelativeDocumentMoniker": "RPG account system\\Character.cs",
+              "ToolTip": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\RPG account system\\RPG account system\\Character.cs",
+              "RelativeToolTip": "RPG account system\\Character.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T00:09:19.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CharacterEdit.xaml.cs",
+              "DocumentMoniker": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\RPG account system\\RPG account system\\CharacterEdit.xaml.cs",
+              "RelativeDocumentMoniker": "RPG account system\\CharacterEdit.xaml.cs",
+              "ToolTip": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\RPG account system\\RPG account system\\CharacterEdit.xaml.cs",
+              "RelativeToolTip": "RPG account system\\CharacterEdit.xaml.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAArwEEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T23:01:33.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CharacterEdit.xaml",
+              "DocumentMoniker": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\RPG account system\\RPG account system\\CharacterEdit.xaml",
+              "RelativeDocumentMoniker": "RPG account system\\CharacterEdit.xaml",
+              "ToolTip": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\RPG account system\\RPG account system\\CharacterEdit.xaml",
+              "RelativeToolTip": "RPG account system\\CharacterEdit.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-08T22:50:32.53Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -67,19 +117,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "Statistics.xaml",
               "DocumentMoniker": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\RPG account system\\RPG account system\\Statistics.xaml",
               "RelativeDocumentMoniker": "RPG account system\\Statistics.xaml",
               "ToolTip": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\RPG account system\\RPG account system\\Statistics.xaml",
               "RelativeToolTip": "RPG account system\\Statistics.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-08T21:59:26.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-08T21:59:26.988Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Characters.xaml",
               "DocumentMoniker": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\RPG account system\\RPG account system\\Characters.xaml",
               "RelativeDocumentMoniker": "RPG account system\\Characters.xaml",
@@ -91,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Players.xaml",
               "DocumentMoniker": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\RPG account system\\RPG account system\\Players.xaml",
               "RelativeDocumentMoniker": "RPG account system\\Players.xaml",
@@ -103,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\RPG account system\\RPG account system\\MainWindow.xaml",
               "RelativeDocumentMoniker": "RPG account system\\MainWindow.xaml",
@@ -115,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Statistics.xaml.cs",
               "DocumentMoniker": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\RPG account system\\RPG account system\\Statistics.xaml.cs",
               "RelativeDocumentMoniker": "RPG account system\\Statistics.xaml.cs",
@@ -128,39 +177,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Characters.xaml.cs",
               "DocumentMoniker": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\RPG account system\\RPG account system\\Characters.xaml.cs",
               "RelativeDocumentMoniker": "RPG account system\\Characters.xaml.cs",
               "ToolTip": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\RPG account system\\RPG account system\\Characters.xaml.cs",
               "RelativeToolTip": "RPG account system\\Characters.xaml.cs",
-              "ViewState": "AQIAADsAAAAAAAAAAAAMwE4AAAAAAAAA",
+              "ViewState": "AQIAAD0AAAAAAAAAAAApwE8AAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T18:06:21.147Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Players.xaml.cs",
               "DocumentMoniker": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\RPG account system\\RPG account system\\Players.xaml.cs",
               "RelativeDocumentMoniker": "RPG account system\\Players.xaml.cs",
               "ToolTip": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\RPG account system\\RPG account system\\Players.xaml.cs",
               "RelativeToolTip": "RPG account system\\Players.xaml.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAcwEMAAAAAAAAA",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAkwG0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T17:58:23.365Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\RPG account system\\RPG account system\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "RPG account system\\MainWindow.xaml.cs",
               "ToolTip": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\RPG account system\\RPG account system\\MainWindow.xaml.cs",
               "RelativeToolTip": "RPG account system\\MainWindow.xaml.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAADgvywAAACMAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAADgvyQAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-06T01:12:23.532Z",
               "EditorCaption": ""

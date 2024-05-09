@@ -80,18 +80,41 @@ namespace RPG_account_system
 
         private void button_next_Click(object sender, RoutedEventArgs e)
         {
-            string request = $"SELECT * FROM players WHERE player_id = {dataGrid_Players.SelectedIndex + 1}";
-            Characters CharWindow = new Characters(new Player(request));
-            this.Close();
-            CharWindow.Show();
+            var selectedRow = dataGrid_Players.SelectedItem as DataRowView;
+
+            if (selectedRow != null)
+            {
+                int playerId = Convert.ToInt32(selectedRow.Row.ItemArray[0]);
+
+                string request = $"SELECT * FROM players WHERE player_id = {playerId}";
+                Characters CharWindow = new Characters(new Player(request));
+                this.Close();
+                CharWindow.Show();
+            }
+            else
+            {
+                MessageBox.Show($"Please select a player", "Selection");
+            }
         }
+
+
+
 
         private void button_Statistic_Click(object sender, RoutedEventArgs e)
         {
-            string request = $"SELECT * FROM players WHERE player_id = {dataGrid_Players.SelectedIndex + 1}";
-            Statistics statistics = new Statistics(new Player(request));
-            this.Close();
-            statistics.Show();
+            var selectedRow = dataGrid_Players.SelectedItem as DataRowView;
+
+            if (selectedRow != null)
+            {
+                int playerId = Convert.ToInt32(selectedRow.Row.ItemArray[0]);
+
+                string request = $"SELECT * FROM players WHERE player_id = {playerId}";
+                Statistics statistics = new Statistics(new Player(request));
+                this.Close();
+                statistics.Show();
+            }
+            else
+                MessageBox.Show($"Please select a player", "Selection");
         }
     }
 }
