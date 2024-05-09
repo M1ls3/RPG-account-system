@@ -19,12 +19,22 @@ namespace RPG_account_system
     /// </summary>
     public partial class CharacterEdit : Window
     {
+        bool isEdit = false;
         private Character character;
+        private Player player;
+
+        public CharacterEdit(Player player)
+        {
+            InitializeComponent();
+            isEdit = false;
+            this.player = player;
+        }
 
         public CharacterEdit(Character character)
         {
             InitializeComponent();
             this.character = character;
+            isEdit = true;
             Load();
         }
 
@@ -58,12 +68,24 @@ namespace RPG_account_system
                 Int32.TryParse(textBox_damage.Text, out int damage) && Double.TryParse(textBox_critdmg.Text, out double critdmg) &&
                 Double.TryParse(textBox_critrate.Text, out double critrate) && Int32.TryParse(textBox_protection.Text, out int protection))
             {
-                Character.EditCharacter(character, new Character(character.Player, EnumHelper.GetClassFromDescription(comboBoxClass.Text),
+                if (isEdit)
+                {
+                    Character.EditCharacter(character, new Character(character.Player, EnumHelper.GetClassFromDescription(comboBoxClass.Text),
                     textBox_Nickname.Text, level, mana, stamina, coins, hp, damage, critdmg, critrate,
                     protection));
-                Characters CharWindow = new Characters(character.Player);
-                this.Close();
-                CharWindow.Show();
+                    Characters CharWindow = new Characters(character.Player);
+                    this.Close();
+                    CharWindow.Show();
+                }
+                else if (!isEdit)
+                {
+                    Character.CreateCharacter(new Character(player, EnumHelper.GetClassFromDescription(comboBoxClass.Text),
+                    textBox_Nickname.Text, level, mana, stamina, coins, hp, damage, critdmg, critrate,
+                    protection));
+                    Characters CharWindow = new Characters(player);
+                    this.Close();
+                    CharWindow.Show();
+                }
             }
             else
             {

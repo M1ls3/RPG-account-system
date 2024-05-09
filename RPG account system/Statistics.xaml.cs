@@ -21,51 +21,43 @@ namespace RPG_account_system
     /// </summary>
     public partial class Statistics : Window
     {
+        Statistic statistic;
         public Statistics(Player player)
         {
             InitializeComponent();
-            RequestSQL(player);
+            statistic = new Statistic(player);
+            Load();
         }
 
-        void RequestSQL(Player player)
+        void Load()
         {
-            try
-            {
-                using (NpgsqlConnection con = Request.GetConnection())
-                {
-                    con.Open();
+            labelStatisticPlayer.Content = $"{statistic.Player.Login}'s statistic";
+            textBox_total_losses.Text = statistic.TotalLosses.ToString();
+            textBox_total_kills.Text = statistic.TotalKills.ToString();
+            textBox_treasure_collected.Text = statistic.TreasureCollected.ToString();
+        }
 
-                    string sql = $"SELECT * FROM player_statistics WHERE player_id = {player.PlayerId} \nORDER BY statistics_id";
-                    using (var cmd = new NpgsqlCommand(sql, con))
-                    {
-                        using (var reader = cmd.ExecuteReader())
-                        {
-                            if (reader.HasRows)
-                            {
-                                DataTable dt = new DataTable();
-                                dt.Load(reader);
-                                dataGrid_Statistics.ItemsSource = dt.DefaultView;
-                            }
-                        }
-                    }
-                }
-            }
-            catch (Exception e)
+        private void button_save_Click(object sender, RoutedEventArgs e)
+        {
+            if (Int32.TryParse(textBox_total_losses.Text, out int losses) &&
+                Int32.TryParse(textBox_total_kills.Text, out int kills) && Int32.TryParse(textBox_treasure_collected.Text, out int treasure))
             {
-                MessageBox.Show(e.Message);
+                Statistic.EditStatistic(statistic, new Statistic(losses, kills, treasure));
+                Players pWindow = new Players();
+                this.Close();
+                pWindow.Show();
+            }
+            else
+            {
+                MessageBox.Show("Some fields have invalid values. Please check and try again.", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
             }
         }
 
-        private void button_back_Click(object sender, RoutedEventArgs e)
+        private void button_cansel_Click(object sender, RoutedEventArgs e)
         {
             Players players = new Players();
             this.Close();
             players.Show();
-        }
-
-        private void button_Edit_Click(object sender, RoutedEventArgs e)
-        {
-
         }
     }
 }

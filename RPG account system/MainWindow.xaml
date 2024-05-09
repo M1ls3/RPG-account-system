@@ -14,8 +14,7 @@
         <PasswordBox x:Name="passwordBox" Margin="245,200,0,0" VerticalAlignment="Top" Height="34" FontSize="20" Background="#FF5C4733" Foreground="White" HorizontalAlignment="Left" Width="196"/>
         <TextBox x:Name="textBox_Login" HorizontalAlignment="Left" Margin="245,110,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="196" Height="33" FontSize="20" Background="#FF5C4733" Foreground="White"/>
         <Label x:Name="labelPassword" Content="Password:" HorizontalAlignment="Left" Margin="245,150,0,0" VerticalAlignment="Top" Height="52" Width="196" FontFamily="Segoe UI" FontWeight="Bold" FontSize="28" Foreground="White"/>
-        <Button x:Name="button_Resset" Content="Resset password" HorizontalAlignment="Left" Height="23" Margin="342,239,0,0" VerticalAlignment="Top" Width="99" Background="#FF707070" Foreground="White"/>
         <Button x:Name="button_play" Content="Play" HorizontalAlignment="Left" Height="65" Margin="108,297,0,0" VerticalAlignment="Top" Width="196" Background="#FF29120B" Foreground="#FFAB8C7D" FontFamily="Cooper Black" FontSize="36" Click="button_Play_Click"/>
-        <Button x:Name="button_Register" Content="Register" HorizontalAlignment="Left" Height="65" Margin="369,297,0,0" VerticalAlignment="Top" Width="196" Background="#FF29120B" Foreground="#FFAB8C7D" FontFamily="Cooper Black" FontSize="36"/>
+        <Button x:Name="button_Register" Content="Register" HorizontalAlignment="Left" Height="65" Margin="369,297,0,0" VerticalAlignment="Top" Width="196" Background="#FF29120B" Foreground="#FFAB8C7D" FontFamily="Cooper Black" FontSize="36" Click="button_Register_Click"/>
     </Grid>
 </Window>

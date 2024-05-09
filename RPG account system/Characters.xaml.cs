@@ -68,10 +68,12 @@ namespace RPG_account_system
 
         private void button_Create_Click(object sender, RoutedEventArgs e)
         {
-
+            CharacterEdit characterEdit = new CharacterEdit(player);
+            this.Close();
+            characterEdit.Show();
         }
 
-        private void button_Edit_Click(object sender, RoutedEventArgs e)
+            private void button_Edit_Click(object sender, RoutedEventArgs e)
         {
             var selectedRow = dataGrid_Characters.SelectedItem as DataRowView;
 
@@ -90,12 +92,35 @@ namespace RPG_account_system
 
         private void button_Delete_Click(object sender, RoutedEventArgs e)
         {
+            if (MessageBox.Show("Are you sure to delete character?", "Delete character", MessageBoxButton.YesNoCancel) == MessageBoxResult.Yes)
+            {
+                var selectedRow = dataGrid_Characters.SelectedItem as DataRowView;
+                if (selectedRow != null)
+                {
+                    int characterId = Convert.ToInt32(selectedRow.Row.ItemArray[0]);
 
+                    string request = $"SELECT * FROM character WHERE character_id = {characterId}";
+                    Character.DeleteCharacter(new Character(request));
+                    RequestSQL();
+                }
+            }
         }
 
-        private void button_biome_Click(object sender, RoutedEventArgs e)
+        private void button_location_Click(object sender, RoutedEventArgs e)
         {
+            var selectedRow = dataGrid_Characters.SelectedItem as DataRowView;
 
+            if (selectedRow != null)
+            {
+                int characterId = Convert.ToInt32(selectedRow.Row.ItemArray[0]);
+
+                string request = $"SELECT * FROM character WHERE character_id = {characterId}";
+                LocationWindow locationWindow = new LocationWindow(new Character(request));
+                this.Close();
+                locationWindow.Show();
+            }
+            else
+                MessageBox.Show($"Incorrect character_id", "Selection");
         }
     }
 }

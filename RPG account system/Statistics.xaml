@@ -10,9 +10,36 @@
         <ImageBrush ImageSource="/CharBack.jpg" Stretch="UniformToFill"/>
     </Window.Background>
     <Grid>
-        <DataGrid x:Name="dataGrid_Statistics" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="0,0,0,51" Background="{x:Null}" Foreground="Black" BorderBrush="{x:Null}" RowBackground="#FFCC9F5E" AlternatingRowBackground="#FFBD823F"/>
-        <Button x:Name="button_Stat_back" Content="&lt;Back" HorizontalAlignment="Left" Height="28" Margin="10,388,0,0" VerticalAlignment="Top" Width="95" Background="#FF29120B" Foreground="#FFAB8C7D" FontFamily="Cooper Black" FontSize="22" Click="button_back_Click"/>
-        <Button x:Name="button_Stat_Edit" Content="Edit" HorizontalAlignment="Left" Height="28" Margin="549,388,0,0" VerticalAlignment="Top" Width="95" Background="#FF29120B" Foreground="#FFAB8C7D" FontFamily="Cooper Black" FontSize="22" Click="button_Edit_Click"/>
+        <Button x:Name="button_Statistic_cansel" Content="&lt;Cansel" HorizontalAlignment="Left" Height="28" Margin="10,388,0,0" VerticalAlignment="Top" Width="95" Background="#FF29120B" Foreground="#FFAB8C7D" FontFamily="Cooper Black" FontSize="22" Click="button_cansel_Click"/>
+        <Button x:Name="button_Statistic_save" Content="Save&gt;" HorizontalAlignment="Left" Height="28" Margin="122,388,0,0" VerticalAlignment="Top" Width="95" Background="#FF29120B" Foreground="#FFAB8C7D" FontFamily="Cooper Black" FontSize="22" Click="button_save_Click"/>
+        <Label x:Name="labelStatisticPlayer" Content="Player's statistic" HorizontalAlignment="Center" Margin="0,22,0,0" VerticalAlignment="Top" FontSize="20" FontWeight="Bold" Width="598"/>
+        <TextBox x:Name="textBox_total_losses" HorizontalAlignment="Left" Margin="27,136,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="112" Foreground="#FF29120B" FontSize="20" BorderBrush="#FF29120B">
+            <TextBox.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFCFA163"/>
+                    <GradientStop Color="#7FBC7934" Offset="1"/>
+                </LinearGradientBrush>
+            </TextBox.Background>
+        </TextBox>
+        <Label x:Name="labelTotalLosses" Content="Total losses:" HorizontalAlignment="Left" Margin="27,106,0,0" VerticalAlignment="Top" FontSize="16" FontWeight="Bold" Width="112"/>
+        <Label x:Name="labelTotalKills" Content="Total kills:" HorizontalAlignment="Left" Margin="170,106,0,0" VerticalAlignment="Top" FontSize="16" FontWeight="Bold" Width="112"/>
+        <Label x:Name="labelTreasureCollected" Content="Treasure collected:" HorizontalAlignment="Left" Margin="310,106,0,0" VerticalAlignment="Top" FontSize="16" FontWeight="Bold" Width="154"/>
+        <TextBox x:Name="textBox_total_kills" HorizontalAlignment="Left" Margin="170,136,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="112" Foreground="#FF29120B" FontSize="20" BorderBrush="#FF29120B">
+            <TextBox.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFCFA163"/>
+                    <GradientStop Color="#7FBC7934" Offset="1"/>
+                </LinearGradientBrush>
+            </TextBox.Background>
+        </TextBox>
+        <TextBox x:Name="textBox_treasure_collected" HorizontalAlignment="Left" Margin="310,136,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="154" Foreground="#FF29120B" FontSize="20" BorderBrush="#FF29120B">
+            <TextBox.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFCFA163"/>
+                    <GradientStop Color="#7FBC7934" Offset="1"/>
+                </LinearGradientBrush>
+            </TextBox.Background>
+        </TextBox>
 
     </Grid>
 </Window>

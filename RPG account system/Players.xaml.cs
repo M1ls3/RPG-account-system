@@ -65,17 +65,42 @@ namespace RPG_account_system
 
         private void button_Create_Click(object sender, RoutedEventArgs e)
         {
-
+            PlayerEdit edit = new PlayerEdit(true);
+            this.Close();
+            edit.Show();
         }
 
         private void button_Edit_Click(object sender, RoutedEventArgs e)
         {
+            var selectedRow = dataGrid_Players.SelectedItem as DataRowView;
 
+            if (selectedRow != null)
+            {
+                PlayerEdit edit = new PlayerEdit(FindPlayer(selectedRow));
+                this.Close();
+                edit.Show();
+            }
+            else
+            {
+                MessageBox.Show($"Please select a player", "Selection");
+            }
         }
 
         private void button_Delete_Click(object sender, RoutedEventArgs e)
         {
-
+            if (MessageBox.Show("Are you sure to delete character?", "Delete character", MessageBoxButton.YesNoCancel) == MessageBoxResult.Yes)
+            {
+                var selectedRow = dataGrid_Players.SelectedItem as DataRowView;
+                if (selectedRow != null)
+                {
+                    Player.DeletePlayer(FindPlayer(selectedRow));
+                    RequestSQL();
+                }
+                else
+                {
+                    MessageBox.Show($"Please select a player", "Selection");
+                }
+            }
         }
 
         private void button_next_Click(object sender, RoutedEventArgs e)
@@ -84,10 +109,7 @@ namespace RPG_account_system
 
             if (selectedRow != null)
             {
-                int playerId = Convert.ToInt32(selectedRow.Row.ItemArray[0]);
-
-                string request = $"SELECT * FROM players WHERE player_id = {playerId}";
-                Characters CharWindow = new Characters(new Player(request));
+                Characters CharWindow = new Characters(FindPlayer(selectedRow));
                 this.Close();
                 CharWindow.Show();
             }
@@ -97,24 +119,28 @@ namespace RPG_account_system
             }
         }
 
-
-
-
         private void button_Statistic_Click(object sender, RoutedEventArgs e)
         {
             var selectedRow = dataGrid_Players.SelectedItem as DataRowView;
 
             if (selectedRow != null)
             {
-                int playerId = Convert.ToInt32(selectedRow.Row.ItemArray[0]);
-
-                string request = $"SELECT * FROM players WHERE player_id = {playerId}";
-                Statistics statistics = new Statistics(new Player(request));
+                Statistics statistics = new Statistics(FindPlayer(selectedRow));
                 this.Close();
                 statistics.Show();
             }
             else
+            {
                 MessageBox.Show($"Please select a player", "Selection");
+            }
+        }
+
+        private Player FindPlayer(DataRowView selectedRow)
+        {
+            int playerId = Convert.ToInt32(selectedRow.Row.ItemArray[0]);
+
+            string request = $"SELECT * FROM players WHERE player_id = {playerId}";
+            return new Player(request);
         }
     }
 }

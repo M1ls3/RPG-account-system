@@ -38,7 +38,7 @@ namespace RPG_account_system
                 if (player.Category == Category.Admin)
                 {
                     Players charactersMenu = new Players();
-                    App.Current.MainWindow.Close();
+                    this.Close();
                     charactersMenu.Show();
                 }
                 else
@@ -46,6 +46,13 @@ namespace RPG_account_system
             }
             else
                 MessageBox.Show($"Incorrect Login or Password", "Invalid", MessageBoxButton.OK, MessageBoxImage.Warning);
+        }
+
+        private void button_Register_Click(object sender, RoutedEventArgs e)
+        {
+            PlayerEdit edit = new PlayerEdit(false);
+            this.Close();
+            edit.Show();
         }
     }
 }

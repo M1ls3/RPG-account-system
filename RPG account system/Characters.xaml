@@ -15,6 +15,6 @@
         <Button x:Name="button_Char_Create" Content="Create" HorizontalAlignment="Left" Height="28" Margin="327,388,0,0" VerticalAlignment="Top" Width="95" Background="#FF29120B" Foreground="#FFAB8C7D" FontFamily="Cooper Black" FontSize="22" Click="button_Create_Click"/>
         <Button x:Name="button_Char_Edit" Content="Edit" HorizontalAlignment="Left" Height="28" Margin="439,388,0,0" VerticalAlignment="Top" Width="95" Background="#FF29120B" Foreground="#FFAB8C7D" FontFamily="Cooper Black" FontSize="22" Click="button_Edit_Click"/>
         <Button x:Name="button_Char_Delete" Content="Delete" HorizontalAlignment="Left" Height="28" Margin="549,388,0,0" VerticalAlignment="Top" Width="95" Background="#FF29120B" Foreground="#FFAB8C7D" FontFamily="Cooper Black" FontSize="22" Click="button_Delete_Click"/>
-        <Button x:Name="button_Char_biome" Content="Biome" HorizontalAlignment="Left" Height="28" Margin="120,388,0,0" VerticalAlignment="Top" Width="95" Background="#FF29120B" Foreground="#FFAB8C7D" FontFamily="Cooper Black" FontSize="22" Click="button_biome_Click"/>
+        <Button x:Name="button_Char_location" Content="Location" HorizontalAlignment="Left" Height="28" Margin="120,388,0,0" VerticalAlignment="Top" Width="115" Background="#FF29120B" Foreground="#FFAB8C7D" FontFamily="Cooper Black" FontSize="22" Click="button_location_Click"/>
     </Grid>
 </Window>

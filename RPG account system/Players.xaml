@@ -15,7 +15,7 @@
         <Button x:Name="button_Player_Create" Content="Create" HorizontalAlignment="Left" Height="28" Margin="327,388,0,0" VerticalAlignment="Top" Width="95" Background="#FF29120B" Foreground="#FFAB8C7D" FontFamily="Cooper Black" FontSize="22" Click="button_Create_Click"/>
         <Button x:Name="button_Player_Edit" Content="Edit" HorizontalAlignment="Left" Height="28" Margin="439,388,0,0" VerticalAlignment="Top" Width="95" Background="#FF29120B" Foreground="#FFAB8C7D" FontFamily="Cooper Black" FontSize="22" Click="button_Edit_Click"/>
         <Button x:Name="button_Player_Delete" Content="Delete" HorizontalAlignment="Left" Height="28" Margin="549,388,0,0" VerticalAlignment="Top" Width="95" Background="#FF29120B" Foreground="#FFAB8C7D" FontFamily="Cooper Black" FontSize="22" Click="button_Delete_Click"/>
-        <Button x:Name="button_Player_next" Content="Next&gt;" HorizontalAlignment="Left" Height="28" Margin="110,388,0,0" VerticalAlignment="Top" Width="95" Background="#FF29120B" Foreground="#FFAB8C7D" FontFamily="Cooper Black" FontSize="22" Click="button_next_Click"/>
+        <Button x:Name="button_Player_next" Content="Char&gt;" HorizontalAlignment="Left" Height="28" Margin="110,388,0,0" VerticalAlignment="Top" Width="95" Background="#FF29120B" Foreground="#FFAB8C7D" FontFamily="Cooper Black" FontSize="22" Click="button_next_Click"/>
         <Button x:Name="button_Player_Statistic" Content="Stat" HorizontalAlignment="Left" Height="28" Margin="219,388,0,0" VerticalAlignment="Top" Width="95" Background="#FF29120B" Foreground="#FFAB8C7D" FontFamily="Cooper Black" FontSize="22" Click="button_Statistic_Click"/>
 
     </Grid>

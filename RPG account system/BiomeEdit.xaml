@@ -1,0 +1,62 @@
+﻿<Window x:Class="RPG_account_system.BiomeEdit"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RPG_account_system"
+        mc:Ignorable="d"
+        Title="BiomeEdit" Height="450" Width="654">
+    <Window.Background>
+        <ImageBrush ImageSource="/CharBack.jpg" Stretch="UniformToFill"/>
+    </Window.Background>
+    <Grid>
+        <Button x:Name="button_BiomeEdit_cansel" Content="&lt;Cansel" HorizontalAlignment="Left" Height="28" Margin="10,388,0,0" VerticalAlignment="Top" Width="95" Background="#FF29120B" Foreground="#FFAB8C7D" FontFamily="Cooper Black" FontSize="22" Click="button_cansel_Click"/>
+        <Button x:Name="button_BiomeEdit_save" Content="Save&gt;" HorizontalAlignment="Left" Height="28" Margin="122,388,0,0" VerticalAlignment="Top" Width="95" Background="#FF29120B" Foreground="#FFAB8C7D" FontFamily="Cooper Black" FontSize="22" Click="button_save_Click"/>
+        <TextBox x:Name="textBox_treasule_scale" HorizontalAlignment="Left" Margin="47,188,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="112" Foreground="#FF29120B" FontSize="20" BorderBrush="#FF29120B">
+            <TextBox.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFCFA163"/>
+                    <GradientStop Color="#7FBC7934" Offset="1"/>
+                </LinearGradientBrush>
+            </TextBox.Background>
+        </TextBox>
+        <Label x:Name="labelTreasureScale" Content="Treasure scale:" HorizontalAlignment="Left" Margin="42,158,0,0" VerticalAlignment="Top" FontSize="16" FontWeight="Bold" Width="128"/>
+        <Label x:Name="labelCoinScale" Content="Coin scale:" HorizontalAlignment="Left" Margin="190,158,0,0" VerticalAlignment="Top" FontSize="16" FontWeight="Bold" Width="112"/>
+        <Label x:Name="labelEnemyScale" Content="Enemy scale:" HorizontalAlignment="Left" Margin="330,158,0,0" VerticalAlignment="Top" FontSize="16" FontWeight="Bold" Width="112"/>
+        <Label x:Name="labelExpScale" Content="Exp scale:" HorizontalAlignment="Left" Margin="479,158,0,0" VerticalAlignment="Top" FontSize="16" FontWeight="Bold" Width="112"/>
+        <TextBox x:Name="textBox_coin_scale" HorizontalAlignment="Left" Margin="190,188,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="112" Foreground="#FF29120B" FontSize="20" BorderBrush="#FF29120B">
+            <TextBox.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFCFA163"/>
+                    <GradientStop Color="#7FBC7934" Offset="1"/>
+                </LinearGradientBrush>
+            </TextBox.Background>
+        </TextBox>
+        <TextBox x:Name="textBox_enemy_scale" HorizontalAlignment="Left" Margin="330,188,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="112" Foreground="#FF29120B" FontSize="20" BorderBrush="#FF29120B">
+            <TextBox.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFCFA163"/>
+                    <GradientStop Color="#7FBC7934" Offset="1"/>
+                </LinearGradientBrush>
+            </TextBox.Background>
+        </TextBox>
+        <TextBox x:Name="textBox_biome_name" HorizontalAlignment="Center" Margin="0,74,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="282" Foreground="#FF29120B" FontSize="20" BorderBrush="#FF29120B">
+            <TextBox.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFCFA163"/>
+                    <GradientStop Color="#7FBC7934" Offset="1"/>
+                </LinearGradientBrush>
+            </TextBox.Background>
+        </TextBox>
+        <Label x:Name="labelBiomeName" Content="Biome Name:" HorizontalAlignment="Center" Margin="0,44,0,0" VerticalAlignment="Top" FontSize="16" FontWeight="Bold" Width="282"/>
+        <TextBox x:Name="textBox_exp_scale" HorizontalAlignment="Left" Margin="479,188,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="112" Foreground="#FF29120B" FontSize="20" BorderBrush="#FF29120B">
+            <TextBox.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFCFA163"/>
+                    <GradientStop Color="#7FBC7934" Offset="1"/>
+                </LinearGradientBrush>
+            </TextBox.Background>
+        </TextBox>
+
+    </Grid>
+</Window>

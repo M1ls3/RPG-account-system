@@ -74,10 +74,6 @@ namespace RPG_account_system
                                 this.login = reader.GetString(5);
                                 email = reader.GetString(6);
                             }
-                            else
-                            {
-                                MessageBox.Show($"Player not found", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
-                            }
                         }
                     }
                 }
