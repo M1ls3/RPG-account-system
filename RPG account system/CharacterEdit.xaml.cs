@@ -28,6 +28,7 @@ namespace RPG_account_system
             InitializeComponent();
             isEdit = false;
             this.player = player;
+            character = new Character($"SELECT * FROM character WHERE player_id = {player.PlayerId}");
         }
 
         public CharacterEdit(Character character)
